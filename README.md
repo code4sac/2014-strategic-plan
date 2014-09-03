@@ -22,17 +22,18 @@ _Here is our team._
 * Storyteller + Data Wrangler: Elizabeth
 * Community Organizer: Ash
 * Delivery Lead: Richard
+* Developer Evangelist: ?
 
 ## Priorities This Year
 _Here is what we want to get done this year._
 1. Reestablish relationship with municpal sponsor.
 2. Establish a Code4Sac Code of Conduct.
-2. Clarifying core team roles and personnel.
-3. Get core team photos and description on website.
-4. Increase core team and hack night attendee retention.
-5. Increase the amount of content on the website.
-6. Finish one more project/extend the reach of an existing project.
-7. Establish relationships with other brigades and other coding/civic groups.
+3. Clarifying core team roles and personnel.
+4. Get core team photos and description on website.
+5. Increase core team and hack night attendee retention.
+6. Increase the amount of content on the website.
+7. Finish one more project/extend the reach of an existing project.
+8. Establish relationships with other brigades and other coding/civic groups.
 
 ## Strategy & Tactics
 _Here is how we’re going to get there._
