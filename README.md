@@ -51,6 +51,7 @@ _Here is how we’re going to get there._
 
 ## Outcomes
 _Here are what outcomes we’ll see if we’re successful._
+
 1. Have a stable and engaged core team and volunteer group, measured by core team meeting and hack night attendance.
 2. Have a stable relationship with our municipal sponsor, measured by regular communications (at least once a month).
 3. Improve the similarity between what our community looks like and what our group looks like.
