@@ -17,6 +17,7 @@ _Who we are and what we do:_
 
 ## Core Leadership Team
 _Here is our team._
+
 * Co-Captains: Brandon and Jesse
 * Social Media Person: Brandon (looking for someone to specifically fill this role)
 * Storyteller + Data Wrangler: Elizabeth
@@ -26,6 +27,7 @@ _Here is our team._
 
 ## Priorities This Year
 _Here is what we want to get done this year._
+
 1. Reestablish relationship with municpal sponsor.
 2. Establish a Code4Sac Code of Conduct.
 3. Clarifying core team roles and personnel.
@@ -37,6 +39,7 @@ _Here is what we want to get done this year._
 
 ## Strategy & Tactics
 _Here is how we’re going to get there._
+
 1. Set up meetings with Steve Hansen, Mruadual, and Maria MacGounigal (sp?). Start by creating doodle poll for times that work for Brandon, Ash and Jesse.
 2. Co-captains will draft a document for approval by Core Team.
 3. Have a meeting (check!).
